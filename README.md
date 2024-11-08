@@ -1,4 +1,4 @@
-# Marathi News Categorization
+# Marathi News Categorization using K-NN Machine Learning Algorithm 
 
 This project focuses on the automatic categorization of Marathi news articles using machine learning techniques, primarily the K-Nearest Neighbors (K-NN) algorithm with various distance measures. The system classifies articles into categories like sports, politics, entertainment, editorial, and local news, facilitating easy and quick access for users.
 
